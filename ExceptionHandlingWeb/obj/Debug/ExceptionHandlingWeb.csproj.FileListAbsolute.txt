@@ -1,0 +1,42 @@
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\ExceptionHandlingWeb.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\ExceptionHandlingWeb.pdb
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\EntityFramework.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Providers.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\EntityFramework.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\obj\Debug\ExceptionHandlingWeb.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\obj\Debug\ExceptionHandlingWeb.dll
+C:\Users\Lenovo\Documents\Vor13\VEFF\Verkefni\8- vika 10\ExceptionHandlingWeb\ExceptionHandlingWeb\obj\Debug\ExceptionHandlingWeb.pdb
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\obj\Debug\ExceptionHandlingWeb.csprojResolveAssemblyReference.cache
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\obj\Debug\ExceptionHandlingWeb.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\obj\Debug\ExceptionHandlingWeb.pdb
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\ExceptionHandlingWeb.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\ExceptionHandlingWeb.pdb
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\EntityFramework.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Helpers.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Mvc.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Providers.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Razor.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\EntityFramework.xml
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Helpers.xml
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Mvc.xml
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.Razor.xml
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.xml
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kristin\Documents\vefforritun\ExceptionHandlingWeb\ExceptionHandlingWeb\bin\System.Web.WebPages.Razor.xml
